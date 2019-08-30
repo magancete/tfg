@@ -40,8 +40,8 @@ TrainUploadData.py
 
 ### 3. Dialogflow Webhook 
 
-En la carpeta functions se encuentra la función `index.js` con el Webhook para Dialogflow.
+En la carpeta `functions` se encuentra la función `index.js` con el Webhook para Dialogflow.
 
-## Author
+## Autor
 
 Carlos Magán López, Agosto 2019
