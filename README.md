@@ -1,7 +1,6 @@
 # Interfaz conversacional en Dialogflow para recomendación de películas
 
-Este proyecto consite en la realización de un chatbot en la plataforma Dialogflow que recomiende que película ver en un sisstemas de vídeo bajo demanda.
-El proyecto está dividido en dos partes: en primer lugar el entrenamiento de la red neurnal y por otra parte el desarrollo del chatbot.
+Este proyecto consiste en la realización de un chatbot en la plataforma Dialogflow que recomiende que película ver en un sistema de vídeo bajo demanda. El proyecto está dividido en dos partes: en primer lugar, el entrenamiento de la red neuronal y por otra parte el desarrollo del chatbot.
 
 ## Requisitos
 
