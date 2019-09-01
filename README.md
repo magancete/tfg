@@ -24,6 +24,12 @@ AnalysisRatings.py
 
 ### 2. Entrenamiento
 
+En primer lugar ejecutar estos archivos para preparar el Dataset:
+```
+GenerateSpanishDataset.py
+GenerateJustWatchDataset.py
+```
+
 Diferentes aproximaciones al problema de la recomendación:
 ```
 Recomend1-ContentBasedGenre.py
